@@ -1,0 +1,11 @@
+.box{
+  height: 100px;
+  width: 100px;
+  border: 1px solid black;
+  display: inline-block;
+  margin-right: 5px;
+  /* border: dotted; */
+  margin-left: 80px;
+  margin-top: 150px;
+  /* padding-left: 30px; */
+}
